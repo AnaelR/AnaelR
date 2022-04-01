@@ -1,7 +1,7 @@
 ### Hello there!✨
 I'm a **creative front-end developer** working in Lyon (France).
 
-- 🔨 I work for [BigBump](https://wbigbump.fr)
+- 🔨 I work for [BigBump](https://bigbump.fr)
 - 🤓 Student at Les Gobelins
 
 
