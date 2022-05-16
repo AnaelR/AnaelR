@@ -4,6 +4,15 @@ I'm a **creative front-end developer** working in Lyon (France).
 - 🔨 I work for [BigBump](https://bigbump.fr)
 - 🤓 Student at Les Gobelins
 
+You can see my [old portfolio here](https://anael.dev), the new one is under construction 😔
+
+## Last public work
+- 🃏 [Typefinder](https://typefinder.bigbump.fr/) : The typeface memory, Awarded [SOTD on Awwwards](https://www.awwwards.com/sites/typefinder) and [WOFD on CSS Design Awards](https://www.cssdesignawards.com/sites/typefinder/41062/)
+
+## Simple works
+- A [simple VueJS landing](https://github.com/AnaelR/g_sourceLanding)
+- Simple [IMG website with Angular](https://github.com/AnaelR/g_two-pages-project)
+- [API with NodeJS & ExpressJS](https://github.com/AnaelR/g_apiMovie)
 
 <!--
 **AnaelR/AnaelR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
