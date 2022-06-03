@@ -7,7 +7,7 @@ I'm a **creative front-end developer** working in Lyon (France).
 You can see my [old portfolio here](https://anael.dev), the new one is under construction 😔
 
 ## Last public work
-- 🃏 [Typefinder](https://typefinder.bigbump.fr/) : The typeface memory, Awarded [SOTD on Awwwards](https://www.awwwards.com/sites/typefinder) and [WOFD on CSS Design Awards](https://www.cssdesignawards.com/sites/typefinder/41062/)
+- 🃏 [Typefinder](https://typefinder.bigbump.fr/) : The typeface memory, Awarded [SOTD on Awwwards](https://www.awwwards.com/sites/typefinder) and [WOTD on CSS Design Awards](https://www.cssdesignawards.com/sites/typefinder/41062/)
 
 ## Simple works
 - A [simple VueJS landing](https://github.com/AnaelR/g_sourceLanding)
