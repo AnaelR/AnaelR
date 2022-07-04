@@ -7,6 +7,7 @@ I'm a **creative front-end developer** working in Lyon (France).
 You can see my [old portfolio here](https://anael.dev), the new one is under construction 😔
 
 ## Last public work
+- 🌳 [Souche de vie](https://www.annecy-paysages.com/souche-de-vie-ap22/) : An AR interactive experience for Annecy Paysage
 - 🃏 [Typefinder](https://typefinder.bigbump.fr/) : The typeface memory, Awarded [SOTD on Awwwards](https://www.awwwards.com/sites/typefinder) and [WOTD on CSS Design Awards](https://www.cssdesignawards.com/sites/typefinder/41062/)
 
 ## Simple works
