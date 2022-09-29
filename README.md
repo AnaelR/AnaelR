@@ -1,10 +1,8 @@
 ### Hello there!✨
 I'm a **creative front-end developer** working in Lyon (France).
 
-- 🔨 I work for [BigBump](https://bigbump.fr)
+- 🔨 I work for [Akaru](https://akaru.fr/)
 - 🤓 Student at Les Gobelins
-
-You can see my [old portfolio here](https://anael.dev), the new one is under construction 😔
 
 ## Last public work
 - 🌳 [Souche de vie](https://www.annecy-paysages.com/souche-de-vie-ap22/) : An AR interactive experience for Annecy Paysage
