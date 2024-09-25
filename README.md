@@ -1,10 +1,15 @@
 ### Hello there!✨
-I'm a **creative front-end developer** working in Lyon (France).
+I'm a **creative developer** working in Lyon (France).
 
-- 🔨 I work for [Akaru](https://akaru.fr/)
-- 🤓 Student at Les Gobelins
+Need a new crew member? **I'm available!**
+
+- 🔨 I worked for [Akaru](https://akaru.fr/) and [BigBump](https://www.bigbump.fr/)
+- 🤓 ex Les Gobelins
 
 ## Last public work
+- 🎈 [Parlons Proto](https://parlons-proto.fr/) : A landing page to prevent nitrous oxide addiction
+- 🌑 [Sanctuary on the moon](https://sanctuaryonthemoon.com/fr/) : A creative website for Sanctuary project
+- 🎥 [Moon studio](https://moon-studio.io/) : Website for a video studio
 - 🌳 [Souche de vie](https://www.annecy-paysages.com/souche-de-vie-ap22/) : An AR interactive experience for Annecy Paysage
 - 🃏 [Typefinder](https://typefinder.bigbump.fr/) : The typeface memory, Awarded [SOTD on Awwwards](https://www.awwwards.com/sites/typefinder) and [WOTD on CSS Design Awards](https://www.cssdesignawards.com/sites/typefinder/41062/)
 
