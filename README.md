@@ -7,6 +7,7 @@ Need a new crew member? **I'm available!**
 - 🤓 ex Les Gobelins
 
 ## Last public work
+- 🧙 [Hocus Pocus Studio](https://hocuspocus-studio.fr/) : Creative website for Hocus Pocus VFX & 3D studio based in Lyon
 - 🎈 [Parlons Proto](https://parlons-proto.fr/) : A landing page to prevent nitrous oxide addiction
 - 🌑 [Sanctuary on the moon](https://sanctuaryonthemoon.com/fr/) : A creative website for Sanctuary project
 - 🎥 [Moon studio](https://moon-studio.io/) : Website for a video studio
